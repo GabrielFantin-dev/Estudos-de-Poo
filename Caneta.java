@@ -1,6 +1,6 @@
-package aula02;
+import aula.Caneta;
 public class Caneta{
-    String modelo;
+    protected String modelo;
     String cor;
     float ponta;
     int carga;
